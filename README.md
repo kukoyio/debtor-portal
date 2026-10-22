@@ -3,7 +3,7 @@
 This is a self-service chatbot built with Next.js, Supabase, and Resend, designed to help customers with overdue accounts safely manage their account details, set up promises to pay, make payments, and schedule appointments.
 
 ## 🚀 Live Application
-*   **Production Deployment:** https://debtor-portal-challenge-seven.vercel.app/
+*   **Production Deployment:** https://debtor-portal-web.vercel.app/
 
 ---
 
